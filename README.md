@@ -1,5 +1,5 @@
 # DevJobs
-https://api-devjobs.azurewebsites.net/swagger/index.html/
+https://api-devjobs.azurewebsites.net/swagger/
 
 #Foi desenvolvida uma API REST completa de gerenciamento de vagas de emprego e aplicação de vagas.
 
