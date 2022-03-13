@@ -1,6 +1,7 @@
 # DevJobs
-https://api-devjobs.azurewebsites.net/swagger/index.html
-Foi desenvolvida uma API REST completa de gerenciamento de vagas de emprego e aplicação de vagas.
+https://api-devjobs.azurewebsites.net/swagger/index.html/
+
+#Foi desenvolvida uma API REST completa de gerenciamento de vagas de emprego e aplicação de vagas.
 
 ## Tecnologias e práticas utilizadas
 - ASP.NET Core com .NET 6
